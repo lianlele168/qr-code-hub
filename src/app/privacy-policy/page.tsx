@@ -14,7 +14,7 @@ export default function PrivacyPolicyPage() {
       <SchemaMarkup
         name="Privacy Policy & Trust"
         description="Privacy policy detailing 100% browser client-side execution."
-        url="https://qr-code-hub.app/privacy-policy"
+        url="https://qrcode.robloxwikihub.com/privacy-policy"
       />
 
       <section className="space-y-3">

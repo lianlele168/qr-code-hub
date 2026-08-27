@@ -32,7 +32,7 @@ export default function HomePage() {
       <SchemaMarkup
         name="QR Code Hub - Free Client-Side Vector QR Code Generator Studio"
         description="Create customized high-resolution SVG & PNG QR codes for URLs, WiFi, vCards, emails, and social chat. 100% client-side privacy."
-        url="https://qr-code-hub.app"
+        url="https://qrcode.robloxwikihub.com"
         faqs={faqs}
       />
 

@@ -51,7 +51,7 @@ export default function BulkQrPage() {
       <SchemaMarkup
         name="Batch Bulk QR Code Generator"
         description="Generate dozens of QR codes at once for inventory SKUs, batch URLs, and ticket IDs."
-        url="https://qr-code-hub.app/bulk-qr-code-generator"
+        url="https://qrcode.robloxwikihub.com/bulk-qr-code-generator"
       />
 
       <section className="space-y-3">

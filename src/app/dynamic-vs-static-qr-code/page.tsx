@@ -15,7 +15,7 @@ export default function DynamicVsStaticGuidePage() {
       <SchemaMarkup
         name="Dynamic vs Static QR Code Comparison Guide"
         description="Comprehensive technical guide comparing static and dynamic QR codes, security, tracking, and error correction."
-        url="https://qr-code-hub.app/dynamic-vs-static-qr-code"
+        url="https://qrcode.robloxwikihub.com/dynamic-vs-static-qr-code"
       />
 
       <section className="space-y-3">

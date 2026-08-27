@@ -26,7 +26,7 @@ export default function WifiQrPage() {
       <SchemaMarkup
         name="WiFi QR Code Generator"
         description="Free online tool to generate instant WiFi connect QR codes for home, Airbnb, and guest networks."
-        url="https://qr-code-hub.app/wifi-qr-code-generator"
+        url="https://qrcode.robloxwikihub.com/wifi-qr-code-generator"
         faqs={faqs}
       />
 

@@ -15,7 +15,7 @@ export default function CustomLogoQrPage() {
       <SchemaMarkup
         name="Custom Logo QR Code Generator"
         description="Add company logos, brand avatars, and custom icons to high-resolution QR codes."
-        url="https://qr-code-hub.app/custom-logo-qr-code-generator"
+        url="https://qrcode.robloxwikihub.com/custom-logo-qr-code-generator"
       />
 
       <section className="space-y-3">

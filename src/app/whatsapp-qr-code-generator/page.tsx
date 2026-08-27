@@ -15,7 +15,7 @@ export default function WhatsAppQrPage() {
       <SchemaMarkup
         name="WhatsApp Chat QR Code Generator"
         description="Free WhatsApp click-to-chat QR generator for customer support, lead generation, and business sales."
-        url="https://qr-code-hub.app/whatsapp-qr-code-generator"
+        url="https://qrcode.robloxwikihub.com/whatsapp-qr-code-generator"
       />
 
       <section className="space-y-3">

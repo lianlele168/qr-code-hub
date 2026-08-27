@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://qr-code-hub.app';
+  const baseUrl = 'https://qrcode.robloxwikihub.com';
 
   const routes = [
     '',

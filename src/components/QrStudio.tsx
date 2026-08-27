@@ -16,7 +16,7 @@ export default function QrStudio({ initialMode = 'url', headline }: QrStudioProp
   const [mode, setMode] = useState(initialMode);
   
   // Data Inputs
-  const [urlInput, setUrlInput] = useState('https://qr-code-hub.app');
+  const [urlInput, setUrlInput] = useState('https://qrcode.robloxwikihub.com');
   const [textInput, setTextInput] = useState('');
   
   // WiFi

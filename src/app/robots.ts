@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: '*',
       allow: '/',
     },
-    sitemap: 'https://qr-code-hub.app/sitemap.xml',
+    sitemap: 'https://qrcode.robloxwikihub.com/sitemap.xml',
   };
 }

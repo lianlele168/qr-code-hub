@@ -11,11 +11,11 @@ export const metadata: Metadata = {
   description: "Generate high-resolution SVG & PNG QR codes for URLs, WiFi networks, vCards, emails, and WhatsApp. 100% client-side privacy with custom logos and colors.",
   keywords: ["qr code generator", "free qr generator", "wifi qr code", "vcard qr code", "svg qr code", "logo qr code generator", "client-side qr code"],
   authors: [{ name: "QR Code Hub Team" }],
-  metadataBase: new URL("https://qr-code-hub.app"),
+  metadataBase: new URL("https://qrcode.robloxwikihub.com"),
   openGraph: {
     title: "QR Code Hub - Free Client-Side Vector QR Code Generator",
     description: "Instant SVG & PNG QR Code Generator for URLs, WiFi, vCard, and Custom Logos. No sign-up required.",
-    url: "https://qr-code-hub.app",
+    url: "https://qrcode.robloxwikihub.com",
     siteName: "QR Code Hub",
     type: "website",
   },

@@ -15,7 +15,7 @@ export default function VectorSvgQrPage() {
       <SchemaMarkup
         name="Vector SVG QR Code Generator"
         description="Scalable SVG vector QR code export tool for professional Graphic Designers and Print Shops."
-        url="https://qr-code-hub.app/vector-svg-qr-code-generator"
+        url="https://qrcode.robloxwikihub.com/vector-svg-qr-code-generator"
       />
 
       <section className="space-y-3">

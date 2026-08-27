@@ -26,7 +26,7 @@ export default function VCardQrPage() {
       <SchemaMarkup
         name="vCard Digital Business Card QR Generator"
         description="Create print-ready contact card QR codes for physical business cards, email signatures, and networking badges."
-        url="https://qr-code-hub.app/vcard-qr-code-generator"
+        url="https://qrcode.robloxwikihub.com/vcard-qr-code-generator"
         faqs={faqs}
       />
 
