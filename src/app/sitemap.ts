@@ -12,7 +12,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/bulk-qr-code-generator',
     '/whatsapp-qr-code-generator',
     '/dynamic-vs-static-qr-code',
-    '/privacy-policy',
   ];
 
   return routes.map((route) => ({
