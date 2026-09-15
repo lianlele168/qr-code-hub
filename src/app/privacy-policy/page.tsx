@@ -107,7 +107,7 @@ export default function PrivacyPolicyPage() {
             For privacy inquiries or technical questions, contact our developer team at:
           </p>
           <div className="inline-block rounded-xl border border-indigo-500/30 bg-indigo-950/40 p-3 font-mono text-sm font-bold text-indigo-300">
-            contact@robloxwikihub.com
+            lianlele168@gmail.com
           </div>
         </section>
       </div>
