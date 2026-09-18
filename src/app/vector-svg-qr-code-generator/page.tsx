@@ -5,6 +5,7 @@ import SchemaMarkup from '@/components/SchemaMarkup';
 import { Download, Sparkles, Printer, Layers } from 'lucide-react';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://qrcode.robloxwikihub.com/vector-svg-qr-code-generator" },
   title: "Vector SVG QR Code Generator - Print-Ready Resolution",
   description: "Generate scalable vector SVG QR codes for professional print shop press, posters, and billboards. 100% resolution loss-free SVG & PNG export.",
 };

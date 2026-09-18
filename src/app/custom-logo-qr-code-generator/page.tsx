@@ -5,6 +5,7 @@ import SchemaMarkup from '@/components/SchemaMarkup';
 import { Image as ImageIcon, Sparkles, ShieldCheck, CheckCircle2 } from 'lucide-react';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://qrcode.robloxwikihub.com/custom-logo-qr-code-generator" },
   title: "Custom Logo QR Code Generator - Add Brand Icon Overlay",
   description: "Embed company logos and brand icons into the center of custom QR codes. Uses Level H 30% Error Correction for guaranteed camera scanning.",
 };

@@ -7,6 +7,10 @@ import {
   Sparkles, Download, CheckCircle2, HelpCircle, ArrowRight, Zap, QrCode, Lock
 } from 'lucide-react';
 
+export const metadata = {
+  alternates: { canonical: "https://qrcode.robloxwikihub.com" },
+};
+
 export default function HomePage() {
   const faqs = [
     {

@@ -5,6 +5,7 @@ import SchemaMarkup from '@/components/SchemaMarkup';
 import { PhoneCall, MessageSquare, ShieldCheck, Sparkles } from 'lucide-react';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://qrcode.robloxwikihub.com/whatsapp-qr-code-generator" },
   title: "WhatsApp QR Code Generator - Click to Chat QR Generator",
   description: "Create direct WhatsApp click-to-chat QR codes pre-filled with phone number and welcome message. Ideal for customer service & sales.",
 };

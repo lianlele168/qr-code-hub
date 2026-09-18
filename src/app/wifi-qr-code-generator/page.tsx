@@ -5,6 +5,7 @@ import SchemaMarkup from '@/components/SchemaMarkup';
 import { Wifi, ShieldCheck, CheckCircle2, Lock, HelpCircle } from 'lucide-react';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://qrcode.robloxwikihub.com/wifi-qr-code-generator" },
   title: "WiFi QR Code Generator - Share WiFi Password Instantly",
   description: "Create free WiFi QR codes so guests and customers can join WPA/WPA2/WEP WiFi networks without typing passwords. 100% private & client-side.",
 };

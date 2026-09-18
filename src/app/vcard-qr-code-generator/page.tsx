@@ -5,6 +5,7 @@ import SchemaMarkup from '@/components/SchemaMarkup';
 import { UserCheck, ShieldCheck, Download, Share2 } from 'lucide-react';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://qrcode.robloxwikihub.com/vcard-qr-code-generator" },
   title: "vCard QR Code Generator - Digital Business Card Contact QR",
   description: "Generate instant vCard digital business card QR codes containing your name, phone number, email, company, and website. 100% free vector download.",
 };

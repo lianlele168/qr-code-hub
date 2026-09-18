@@ -5,6 +5,7 @@ import SchemaMarkup from '@/components/SchemaMarkup';
 import { ShieldCheck, CheckCircle2, XCircle, ArrowRight, Lock, HelpCircle } from 'lucide-react';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://qrcode.robloxwikihub.com/dynamic-vs-static-qr-code" },
   title: "Dynamic vs Static QR Codes - Comprehensive Comparison Guide",
   description: "Learn the differences between Dynamic and Static QR codes. Discover why static QR codes never expire and how error correction levels work.",
 };
