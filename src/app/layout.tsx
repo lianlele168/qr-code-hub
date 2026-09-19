@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   },
   description: "Generate high-resolution SVG & PNG QR codes for URLs, WiFi networks, vCards, emails, and WhatsApp. 100% client-side privacy with custom logos and colors.",
   keywords: ["qr code generator", "free qr generator", "wifi qr code", "vcard qr code", "svg qr code", "logo qr code generator", "client-side qr code"],
-  authors: [{ name: "QR Code Hub Team" }],
+  authors: [{ name: "Hlele" }],
   metadataBase: new URL("https://qrcode.robloxwikihub.com"),
   openGraph: {
     title: "QR Code Hub - Free Client-Side Vector QR Code Generator",

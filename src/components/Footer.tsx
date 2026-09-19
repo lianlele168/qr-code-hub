@@ -59,6 +59,7 @@ export default function Footer() {
 
         <div className="pt-6 border-t border-slate-200 flex flex-col sm:flex-row justify-between items-center text-xs text-slate-500 gap-4 font-medium">
           <p>© {new Date().getFullYear()} QR Code Hub. All rights reserved.</p>
+          <p className="mt-1 text-slate-500">Reviewed by Hlele · Content AI-assisted, human-reviewed · Data sources cited on page · Contact: lianlele168@gmail.com</p>
           <div className="flex gap-4">
             <Link href="/" className="hover:text-slate-900">Home</Link>
             <Link href="/wifi-qr-code-generator" className="hover:text-slate-900">WiFi QR</Link>
