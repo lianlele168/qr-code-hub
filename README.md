@@ -7,6 +7,8 @@ First, run the development server:
 ```bash
 npm run dev
 # or
+
+> 🎮 **Live site:** [https://qrcode.robloxwikihub.com](https://qrcode.robloxwikihub.com) — free browser tool — no ads, no signup, everything runs locally.
 yarn dev
 # or
 pnpm dev
