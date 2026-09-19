@@ -239,6 +239,9 @@ export default function HomePage() {
           ))}
         </div>
       </section>
+      <section className="px-4 pb-10 text-[11px] text-slate-500 max-w-7xl mx-auto">
+        <p>Reviewed by Hlele · Content AI-assisted, human-reviewed · Data sources cited on page · Contact: lianlele168@gmail.com</p>
+      </section>
     </div>
   );
 }
